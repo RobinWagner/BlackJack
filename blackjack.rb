@@ -8,3 +8,5 @@
 # If pass:
 #   Bank draws cards
 #   If above 21 points => player wins
+
+puts 'Welcome to BlackJack'
