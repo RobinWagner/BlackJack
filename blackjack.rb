@@ -10,3 +10,4 @@
 #   If above 21 points => player wins
 
 puts 'Welcome to BlackJack'
+puts 'Pick a card.'
